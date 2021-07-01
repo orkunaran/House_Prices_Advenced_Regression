@@ -14,14 +14,11 @@ The dataset consists of 79 variables to predict the prices. The detailed descrip
 
 ### Scoring Metric
 
-Because this is a Kaggle learning competation, 
+Because this is a Kaggle learning competation, Kaggle chosed an evaluation metric: 
+    "Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)"
+
+## Models and Results
+
+My approach to the dataset was able to get a RMSE score of 0.13204 which placed me at 4311th place from 13447 competitors. As a beginner and self-taught data enthusiast, this was my first regression analysis (probably 3rd or 4th data analysis with ML).
 
 
-
-
-
-
-
-
-
-As a beginner and self-taught data enthusiast, this is my first regression 
