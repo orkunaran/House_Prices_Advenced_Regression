@@ -19,6 +19,8 @@ Because this is a Kaggle learning competation, Kaggle chosed an evaluation metri
 
 ## Models and Results
 
-My approach to the dataset was able to get a RMSE score of 0.13204 which placed me at 4311th place from 13447 competitors. As a beginner and self-taught data enthusiast, this was my first regression analysis (probably 3rd or 4th data analysis with ML).
+My approach to the dataset was able to get a RMSE score of 0.13204 which placed me at 4311th place from 13447 competitors. As a beginner and self-taught data enthusiast, this was my first regression analysis (probably 3rd or 4th data analysis with ML).  I learnt a lot by doing this kaggle, and had lots of fun doing it. I hope I could transfer my joy to the notebook, and made it fun and easier to read for you guys. 
+
+Thank you for your time.
 
 
