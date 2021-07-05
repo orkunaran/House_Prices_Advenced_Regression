@@ -3,11 +3,10 @@
 
 ## About the Repository
 
-This repository includes my analysis on predicting house prices of [Ames House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). The repository includes 3 notebooks;
+This repository includes my analysis on predicting house prices of [Ames House Prices Dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). The repository includes 2 notebooks;
 
 1. Data cleaning, Exploratory data analysis, Feature engineering and selection, Visualizations
-2. Comparison of different machine learning models
-3. Hyperparameter tuning on the best model
+2. Comparison of different machine learning models and  Hyperparameter tuning on the best model
 
 ## About the Data
 The dataset consists of 79 variables to predict the prices. The detailed description of the data can be found at this [link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data?select=data_description.txt)
