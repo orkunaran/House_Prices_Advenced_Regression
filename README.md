@@ -1,5 +1,20 @@
-# House_Prices_Regression
- Analysis of the famous Kaggle Dataset- House Prices - Advenced Regression Techniques
+<h1 align = 'center'> House_Prices_Regression </h1>
+<p align = 'center'>
+  
+ <a href = 'https://www.python.org/downloads/release/python-396/'>
+   <img src = 'https://img.shields.io/badge/python-v3.9-blue'>
+ </a>
+
+ <a href="https://github.com/orkunaran/House_Prices_Advenced_Regression/issues">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/orkunaran/World-Happiness-Report-2015-2019">
+ </a>
+ 
+ <img src = 'https://badges.pufler.dev/visits/orkunaran/House_Prices_Advenced_Regression'>
+  
+ <img src = 'https://camo.githubusercontent.com/ce4a5e65b14d18bdb66972f8267fd2ebc5416515/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35372f37612f32312f35373761323139343638303865393233613434336266303466396332386464342e676966'>
+
+</p>
+
 
 ## About the Repository
 
