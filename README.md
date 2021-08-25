@@ -6,7 +6,7 @@
  </a>
 
  <a href="https://github.com/orkunaran/House_Prices_Advenced_Regression/issues">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/orkunaran/World-Happiness-Report-2015-2019">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/orkunaran/House_Prices_Advenced_Regression">
  </a>
  
  <img src = 'https://badges.pufler.dev/visits/orkunaran/House_Prices_Advenced_Regression'>
